@@ -6,7 +6,7 @@ on:
     branches:
       - main
     paths:
-      - ".github/workflow/compile-and-deploy.yml"
+      - ".github/workflows/compile-and-deploy.yml"
       - "GithubActionsDemoApp/**"
       - "Tests/**"
 
